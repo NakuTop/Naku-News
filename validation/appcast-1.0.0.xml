@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Naku News</title>
+    <link>https://github.com/NakuTop/Naku-News</link>
+    <description>Naku News macOS updates</description>
+    <language>zh-cn</language>
+    <item>
+      <title>Naku News 1.0.0</title>
+      <pubDate>Sun, 15 Nov 2026 12:16:53 GMT</pubDate>
+      <sparkle:version>100</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description>首个正式版：NAS 账户与独立订阅、RSS 发现与双语阅读、视频及播客、本机字幕，以及签名差分更新。</description>
+      <enclosure url="https://github.com/NakuTop/Naku-News/releases/download/v1.0.0/Naku-News-1.0.0-macos-arm64.zip" length="151694762" type="application/octet-stream" sparkle:edSignature="MeaBJF0GxME7uMmA+l4CZYyh8s09MMUtQbDpGkUFuKUDUioMsc6rEqhvhcbdjBNZ20EnflJVDjROaWztKigiBg=="></enclosure>
+      <sparkle:deltas>
+        <enclosure url="https://github.com/NakuTop/Naku-News/releases/download/v1.0.0/Naku-News-100-from-99-arm64.delta" length="2306" type="application/octet-stream" sparkle:edSignature="I90fL+oxZvZP/iNTR2bVQdd3ap6jTWCBYbpbT0jYuLzT4QXqeBHSV4D7NVdvxyAOuqNb80Gff3ruBSeFrNlnDg==" sparkle:deltaFrom="99"></enclosure>
+      </sparkle:deltas>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: d6KSnhlvI2CntEQYcF6rLrNu+3131wTFlLNn40MsexYk6udtfs8YqSSkymAh8BmUNZeuZaESxRLIuPn2TtFQCA==
+length: 1701
+-->
